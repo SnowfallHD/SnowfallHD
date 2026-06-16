@@ -43,4 +43,3 @@ I work under **Kryden** on agentic software, local-first AI operator workflows, 
 
 If a repo looks experimental, it probably is. The useful pieces get extracted into smaller public tools over time.
 
-<!-- profile-readme-refresh: 2026-06-16 -->
