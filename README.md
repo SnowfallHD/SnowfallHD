@@ -15,7 +15,7 @@ I work under **Kryden** on agentic software, local-first AI operator workflows, 
 
 | Project | What it is | Stack | Notes |
 | --- | --- | --- | --- |
-| [`Kryden Agent`](https://kryden.ai) | An stateful agent that never forgets | Electron | Kryden original; Mac OS |
+| [`Kryden Agent`](https://kryden.ai) | A stateful agent that never forgets | Electron | Kryden original; Mac OS |
 | [`forklift`](https://github.com/SnowfallHD/forklift) | Agent-assisted upstream integration for custom forks. | Python | SnowfallHD original; CLI-first, MCP/Hermes adapters planned. |
 | [`hermes-agent`](https://github.com/SnowfallHD/hermes-agent) | Custom Hermes Agent fork for agent-team execution and local operator workflows. | Python | Fork of NousResearch/Hermes Agent with SnowfallHD customizations. |
 
