@@ -7,9 +7,6 @@ I work under **Kryden** on agentic software, local-first AI operator workflows, 
 ## Current focus
 
 - **Kryden Agent** — stateful autonomous AI agent for non-technical people.
-- **Forklift** — agent-assisted upstream integration for custom forks.
-- **Nocturnal / PurgeBox / ChartHunter** — small subscription-product experiments around clarity, cleanup, and market workflows.
-- **Security automation** — agent-assisted bug bounty research and repeatable validation pipelines.
 
 ## Projects
 
@@ -17,7 +14,7 @@ I work under **Kryden** on agentic software, local-first AI operator workflows, 
 | --- | --- | --- | --- |
 | [`Kryden Agent`](https://kryden.ai) | A stateful agent that never forgets | Electron | Kryden original; Mac OS |
 | [`forklift`](https://github.com/SnowfallHD/forklift) | Agent-assisted upstream integration for custom forks. | Python | SnowfallHD original; CLI-first, MCP/Hermes adapters planned. |
-| [`hermes-agent`](https://github.com/SnowfallHD/hermes-agent) | Custom Hermes Agent fork for agent-team execution and local operator workflows. | Python | Fork of NousResearch/Hermes Agent with SnowfallHD customizations. |
+| [`podsmute`](https://github.com/SnowfallHD/podsmute) | AirPods stem presses toggle the system-wide macOS microphone mute. | Swift / Core Audio | Fork with global mute support validated while ChatGPT voice is active. |
 
 ## How I like to build
 
