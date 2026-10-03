@@ -16,6 +16,7 @@ I work under **Kryden** on agentic software, local-first AI operator workflows, 
 | [`forklift`](https://github.com/SnowfallHD/forklift) | Agent-assisted upstream integration for custom forks. | Python | SnowfallHD original; CLI-first, MCP/Hermes adapters planned. |
 | [`VODForge`](https://github.com/SnowfallHD/vodforge) | Source-aware YouTube-to-VOD MP4 exporter with organized metadata and playlist handling. | Python / Tkinter / FFmpeg | SnowfallHD original; Windows. |
 | [`podsmute`](https://github.com/SnowfallHD/podsmute) | AirPods stem presses toggle the system-wide macOS microphone mute. | Swift / Core Audio | Fork with global mute support validated while ChatGPT voice is active. |
+| [`PwnMyFone`](https://github.com/SnowfallHD/PwnMyFone) | Guided iPhone and iPad recovery through verified firmware and erase-and-restore workflows. | Tauri / Rust / React / TypeScript | SnowfallHD original; macOS preview, Windows planned. Activation Lock remains intact. |
 
 ## How I like to build
 
